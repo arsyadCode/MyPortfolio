@@ -9,7 +9,7 @@ const homeConfig = {
 
     greeting:
         <h1 className="heading">
-            Hi! I'm <strong className="main-name"> Rodrigo Arenas</strong>
+            Hi! I'm <strong className="main-name"> Kiagus Muhammad Arsyad</strong>
         </h1>,
     titles: [
         "A Data Scientist",
@@ -20,8 +20,8 @@ const homeConfig = {
     ],
     about: {
         start: "I've been working for over nine years on data science projects. " +
-            "I'm excited by learning new things, contributing to the data science community," +
-            " and spreading the word of data!",
+            "I'm excited by learning new things, contributing to the data science " +
+            "community, and spreading the word of data!",
         exit: "I'm fluent at Python, SQL databases, BI tools, and more, " +
             "with a deep interest in machine learning."
     },
